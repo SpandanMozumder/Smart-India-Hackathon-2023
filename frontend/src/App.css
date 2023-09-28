@@ -1,0 +1,7 @@
+.scrollable-div::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    overflow: hidden;
+}
